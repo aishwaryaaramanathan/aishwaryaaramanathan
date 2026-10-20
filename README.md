@@ -12,7 +12,7 @@
 </p>
 
 <p align="center">
-  <a href="www.linkedin.com/in/aishwaryaramanathan17">
+  <a href="https://www.linkedin.com/in/aishwaryaramanathan17/?isSelfProfile=true">
     <img src="https://img.shields.io/badge/LINKEDIN-FFFFFF?style=for-the-badge&labelColor=FFFFFF&color=FFFFFF" alt="LinkedIn" />
   </a>
   <a href="mailto:aishxram1796@gmail.com">
