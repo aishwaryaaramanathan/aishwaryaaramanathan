@@ -6,6 +6,23 @@
 
 <br>
 
+
+<p align="center">
+  <samp> &nbsp; LET'S CONNECT! &nbsp;⋆｡°✩</samp>
+</p>
+
+<p align="center">
+  <a href="www.linkedin.com/in/aishwaryaramanathan17">
+    <img src="https://img.shields.io/badge/LINKEDIN-FFFFFF?style=for-the-badge&labelColor=FFFFFF&color=FFFFFF" alt="LinkedIn" />
+  </a>
+  <a href="mailto:aishxram1796@gmail.com">
+    <img src="https://img.shields.io/badge/EMAIL-FFFFFF?style=for-the-badge&labelColor=FFFFFF&color=FFFFFF" alt="Email" />
+  </a>
+  <a href="https://github.com/aishwaryaaramanathan">
+    <img src="https://img.shields.io/badge/GITHUB-FFFFFF?style=for-the-badge&labelColor=FFFFFF&color=FFFFFF" alt="GitHub" />
+  </a>
+</p>
+
 ## 𓂃 ࣪˖ about me
 
 > AI & ML undergraduate interested in **intelligent systems, applied machine learning, and computer vision**.
